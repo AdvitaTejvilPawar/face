@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(201, 156, 163);
+}
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+p{
+    color: white;
+}
+b{
+    color: rgb(119, 50, 60);
+}
+label{
+    color: white;
+    font-size: 18px;
+}
+#camera{
+    bored:2px black;
+    width: 380px;
+    height: 280px;
+border-style: dashed;
+}
